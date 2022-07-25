@@ -61,7 +61,9 @@ SHOW DATABASES;
 2.
 
 ```
-USE <Database Name>;
+USE students;
+
+/* USE <Database Name> */
 ```
 
 3. (Example 2 code লিখার পর)
@@ -80,6 +82,7 @@ SHOW TABLES;
 
 ```
 SELECT * FROM students;
+
 /* SELECT * FROM <Table Name> */
 ```
 
@@ -87,6 +90,7 @@ SELECT * FROM students;
 
 ```
 SELECT * FROM students LIMIT 10;
+
 /* SELECT * FROM <Table Name> LIMIT <Number of Records want to Show> */
 ```
 
@@ -94,6 +98,7 @@ SELECT * FROM students LIMIT 10;
 
 ```
 SELECT name, roll FROM students;
+
 /* SELECT <Column1>, <Column2>, <Column3>... FROM <Table Name> */
 ```
 
@@ -101,6 +106,7 @@ SELECT name, roll FROM students;
 
 ```
 SELECT name, roll FROM students LIMIT 5;
+
 /* SELECT <Column1>, <Column2>, <Column3>...<ColumnNth> FROM <Table Name> LIMIT <Number of Records want to Show> */
 ```
 
@@ -112,6 +118,7 @@ SELECT name, roll FROM students LIMIT 5;
 
 ```
 INSERT INTO students VALUES (, 'John', 101, 700);
+
 /* INSERT INTO <Table Name> VALUES (<Value for Column1>, <Value for Column2>, <Value for Column3>...<Value for ColumnNth>) */
 ```
 
@@ -119,6 +126,7 @@ INSERT INTO students VALUES (, 'John', 101, 700);
 
 ```
 INSERT INTO students (name, roll) VALUES ('John', 101);
+
 /* INSERT INTO <Table Name> (<Column1>, <Column2>, <Column3>...<ColumnNth>) VALUES (<Value for Column1>, <Value for Column2>, <Value for Column3>...<Value for ColumnNth>) */
 ```
 
@@ -130,6 +138,7 @@ INSERT INTO students (name, roll) VALUES ('John', 101);
 
 ```
 DELETE FROM students WHERE id=2;
+
 /* DELETE FROM <Table Name> WHERE <Condition> */
 ```
 
@@ -144,6 +153,7 @@ UPDATE students
 SET
   amount=600
 WHERE id=2;
+
 /*
 UPDATE <Table Name>
 SET
@@ -160,6 +170,7 @@ SET
   name='John Doe',
   amount=900
 WHERE name='John' AND id=2;
+
 /*
 UPDATE <Table Name>
 SET
