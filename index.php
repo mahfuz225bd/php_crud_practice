@@ -45,12 +45,12 @@
 				$result = $conn->query("SELECT * FROM students");
 
 				if ($result->num_rows > 0) {
-					// *** Bellow code (commented) should be deleted ***
+					// *** Bellow code (commented) should be removed ***
 					// $text = json_encode($result);
 					// echo "<script>console.log(" . $text . ");</script>";
 
 					while ($row = $result->fetch_assoc()) {
-						// *** Bellow code (commented) should be deleted ***
+						// *** Bellow code (commented) should be removed ***
 						$text = json_encode($row);
 						echo "<script>console.log(" . $text . ");</script>";
 
@@ -67,14 +67,14 @@
 					}
 				}
 
-				// *** Bellow code (commented) should be deleted *** 
+				// *** Bellow code (commented) should be removed *** 
 				// if ($x = 0) {
 				// 	echo "<script>console.log('YES');</script>";
 				// } else {
 				// 	echo "<script>console.log('NO');</script>";
 				// }
 
-				// *** Bellow code (commented) should be deleted *** 
+				// *** Bellow code (commented) should be removed *** 
 				// while ($x = 1) {
 				// 	echo "<script>console.log('YES');</script>";
 				// }

@@ -13,7 +13,7 @@ $sql = "INSERT INTO students (name, roll, amount) VALUES ('" . $name . "', " . $
 $query = $conn->query($sql);
 
 if ($query == TRUE) {
-  // *** Bellow code (commented) should be deleted *** 
+  // *** Bellow code (commented) should be removed *** 
   // Show executable sql code
   // echo $sql;
 
