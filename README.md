@@ -171,7 +171,7 @@ $conn->query(SQL query string)->fetch_assoc(); // If there are more than zero ro
 $conn->close(); // For closing the database connection
 ```
 
-## Follow Those Steps for Creating an CRUD App using PHP MySQL
+## Follow Those Steps for Creating this CRUD App using PHP MySQL
 
 1. Create an index.html file and code for HTML form.
 2. Create default.css and link to HTML file.
