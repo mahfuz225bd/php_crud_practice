@@ -1,5 +1,5 @@
 <?php
-include './connectDB.php';
+require_once './connectDB.php';
 
 // Get id
 $id = $_GET['id'];

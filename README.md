@@ -1,4 +1,4 @@
-# PHP MySQL CRUD Practice
+# PHP MySQL CRUD Tutorial
 
 This repo can be helpful for practicing PHP MySQL CRUD for beginners. I made this repo for beginners who is learnt basic PHP and now want to practice CRUD.
 
@@ -104,13 +104,13 @@ There are some topics provided bellow (in Bengali), beginners must have to know 
   1. ```
      INSERT INTO students VALUES (, 'John', 101, 700);
 
-     /* INSERT INTO <Table Name> VALUES (<Value for Column1>, <Value for Column2>, <Value for Column3>...<Value for ColumnNth>) */
+     /* INSERT INTO <Table Name> VALUES (<Value of Column1>, <Value of Column2>, <Value of Column3>...<Value of ColumnNth>) */
      ```
 
   2. ```
      INSERT INTO students (name, roll) VALUES ('John', 101);
 
-     /* INSERT INTO <Table Name> (<Column1>, <Column2>, <Column3>...<ColumnNth>) VALUES (<Value for Column1>, <Value for Column2>, <Value for Column3>...<Value for ColumnNth>) */
+     /* INSERT INTO <Table Name> (<Column1>, <Column2>, <Column3>...<ColumnNth>) VALUES (<Value of Column1>, <Value of Column2>, <Value of Column3>...<Value of ColumnNth>) */
      ```
 
 - Delete (D = Delete)
@@ -160,10 +160,22 @@ There are some topics provided bellow (in Bengali), beginners must have to know 
      */
      ```
 
+### Procedure to Execute SQL Query though PHP
+
+1. GET as variable
+   - hostname
+   - username
+   - password
+   - database
+2. Connect to the database using hostname, username, password, database
+3. $sql = Make a SQL string
+4. Execute $sql
+5. Close the database connection
+
 ### PHP MySQL Reference
 
 ```
-$conn = new mysqli(hostname, username, password, database); // Instantiation of mysqli
+$conn = new mysqli($hostname, $username, $password, $database); // Instantiation of mysqli
 $conn->connect_error; // For getting connection error message
 $conn->query(SQL query string); // For executing SQL query
 $conn->query(SQL query string)->number_rows; // For getting number of rows
@@ -181,23 +193,23 @@ $conn->close(); // For closing the database connection
 
    - Connect DB
    - $result = (Execute SQL query and get data)
-   - while loop on the condition of $row = $result->fetch_assoc() though target html view element \w $row[column_name]
+   - while loop on the condition of $row = $result->fetch_assoc() though target html view element \w $row['column_name']
 
-6. Create insert.php following steps:
+6. Create and code to insert.php following steps:
 
    - Get form data using $\_POST
    - Make SQL query string
    - Execute the SQL query
    - Go to home page
 
-7. Create delete.php following steps:
+7. Create and code to delete.php following steps:
 
    - Get id using $\_GET
    - Make SQL query string
    - Execute the SQL query
    - Go to home page
 
-8. Create edit.php following steps:
+8. Create and code to edit.php following steps:
 
    - Create a new form
    - Get data from DB following by id

@@ -1,5 +1,5 @@
 <?php
-include './connectDB.php';
+require_once './connectDB.php';
 
 // Getting values of name, roll amount from the HTML form
 $name = $_POST['name'];
