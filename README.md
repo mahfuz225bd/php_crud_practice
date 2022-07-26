@@ -227,4 +227,4 @@ $conn->close(); // For closing the database connection
 - [CSS Grid by Learn with Summit Bangladesh](https://www.youtube.com/watch?v=kEFIdXzQXYw&ab_channel=LearnwithSumit-LWS-Bangladesh)
 - [Javascript by Learn with Summit Bangladesh](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&ab_channel=LearnwithSumit-LWS-Bangladesh)
 - [PHP For Absolute Beginners in Bangla](https://www.youtube.com/watch?v=_TST9dVptls&t=5545s&ab_channel=ProcoderBD)
-- [SQL](https://www.youtube.com/watch?v=GYHu3nstDkQ&list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99&index=1&ab_channel=LearnHunter)
+- [SQL by Learn Hunter](https://www.youtube.com/watch?v=GYHu3nstDkQ&list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99&index=1&ab_channel=LearnHunter)
