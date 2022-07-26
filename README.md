@@ -160,7 +160,7 @@ There are some topics provided bellow (in Bengali), beginners must have to know 
      */
      ```
 
-### Procedure to Execute SQL Query though PHP
+### Procedure to Execute an SQL Query though PHP
 
 1. GET as variable
    - hostname
@@ -217,3 +217,14 @@ $conn->close(); // For closing the database connection
    - Make SQL query string for updating
    - onSubmit: Execute the update query
    - Go to home page
+
+# Learning Resources in Bengali
+
+[HTML5 Essential Training by Procoder](https://www.youtube.com/watch?v=_bjfDQWG65c&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&ab_channel=ProcoderBD)
+[CSS3 Essential Training by Procoder](https://www.youtube.com/watch?v=Z1Lgl5lmHFY&list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV&ab_channel=ProcoderBD)
+[CSS3 and CSS4 Weird Parts Bangla Tutorial by Stack Learner](https://www.youtube.com/watch?v=MH2sJThTgEE&list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2&ab_channel=StackLearner)
+[CSS Flexbox by Learn with Summit Bangladesh](https://www.youtube.com/watch?v=kRS5ficucNM&ab_channel=LearnwithSumit-LWS-Bangladesh)
+[CSS Grid by Learn with Summit Bangladesh](https://www.youtube.com/watch?v=kEFIdXzQXYw&ab_channel=LearnwithSumit-LWS-Bangladesh)
+[Javascript by Learn with Summit Bangladesh](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&ab_channel=LearnwithSumit-LWS-Bangladesh)
+[PHP For Absolute Beginners in Bangla](https://www.youtube.com/watch?v=_TST9dVptls&t=5545s&ab_channel=ProcoderBD)
+[SQL](https://www.youtube.com/watch?v=GYHu3nstDkQ&list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99&index=1&ab_channel=LearnHunter)
