@@ -54,7 +54,7 @@ if ($result === FALSE) {
       <br>
 
       <div style="text-align:center;">
-        <button class="btn" type="submit" name="submit">Update</button>
+        <button class="btn btn-blue" type="submit" name="submit">Update</button>
         <a class="btn btn-red" href="./index.php">Cancel</a>
       </div>
     </form>
