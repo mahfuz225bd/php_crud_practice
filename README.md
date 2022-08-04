@@ -235,3 +235,4 @@ $conn->close(); // For closing the database connection
 - [JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&ab_channel=LearnwithSumit-LWS-Bangladesh) *by Learn with Summit Bangladesh*
 - [PHP For Absolute Beginners in Bangla](https://www.youtube.com/watch?v=_TST9dVptls&ab_channel=ProcoderBD) *by Procoder*
 - [mysql bangla tutorial | Mysql Database | HSC,CSE, Anyone](https://www.youtube.com/watch?v=GYHu3nstDkQ&list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99&index=1&ab_channel=LearnHunter) *by Learn Hunter*
+- [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/watch?v=1IQbPxFkoiQ&list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD&index=1&ab_channel=AnisulIslam) *by Anisul Islam*
