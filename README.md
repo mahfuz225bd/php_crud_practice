@@ -227,11 +227,12 @@ $conn->close(); // For closing the database connection
 
 # Learning Resources in Bengali
 
-- [HTML5 Essential Training](https://www.youtube.com/watch?v=_bjfDQWG65c&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&ab_channel=ProcoderBD) by Procoder
-- [HTML5 | HTML Tutorial For Beginners](https://www.youtube.com/watch?v=ELphoMApj-8&list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp&ab_channel=HabluProgrammer) by Hablu Programmer
-- [CSS3 Essential Training by Procoder](https://www.youtube.com/watch?v=Z1Lgl5lmHFY&list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV&ab_channel=ProcoderBD)
-- [CSS Bangla Tutorial / CSS3 Bangla Tutorial by Hablu Programmer](https://www.youtube.com/watch?v=jrI6jYYVI78&list=PLNMnAEqLBwmq4cvfIMWE9ZiAmndL5VOIM&ab_channel=HabluProgrammer)
-- [CSS3 and CSS4 Weird Parts Bangla Tutorial by Stack Learner](https://www.youtube.com/watch?v=MH2sJThTgEE&list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2&ab_channel=StackLearner)
-- [Javascript by Learn with Summit Bangladesh](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&ab_channel=LearnwithSumit-LWS-Bangladesh)
-- [PHP For Absolute Beginners in Bangla](https://www.youtube.com/watch?v=_TST9dVptls&t=5545s&ab_channel=ProcoderBD)
-- [SQL by Learn Hunter](https://www.youtube.com/watch?v=GYHu3nstDkQ&list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99&index=1&ab_channel=LearnHunter)
+- [HTML5 Essential Training](https://www.youtube.com/watch?v=_bjfDQWG65c&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&ab_channel=ProcoderBD) *by Procoder*
+- [HTML5 | HTML Tutorial For Beginners](https://www.youtube.com/watch?v=ELphoMApj-8&list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp&ab_channel=HabluProgrammer) *by Hablu Programmer*
+- [CSS3 Essential Training](https://www.youtube.com/watch?v=Z1Lgl5lmHFY&list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV&ab_channel=ProcoderBD) *by Procoder*
+- [CSS Bangla Tutorial / CSS3 Bangla Tutorial](https://www.youtube.com/watch?v=jrI6jYYVI78&list=PLNMnAEqLBwmq4cvfIMWE9ZiAmndL5VOIM&ab_channel=HabluProgrammer) *by Hablu Programmer*
+- [CSS3 and CSS4 Weird Parts Bangla Tutorial](https://www.youtube.com/watch?v=MH2sJThTgEE&list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2&ab_channel=StackLearner) * by Stack Learner*
+- [JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&ab_channel=LearnwithSumit-LWS-Bangladesh) *by Learn with Summit Bangladesh*
+- [PHP For Absolute Beginners in Bangla](https://www.youtube.com/watch?v=_TST9dVptls&t=5545s&ab_channel=ProcoderBD) *by Procoder*
+- [mysql bangla tutorial | Mysql Database | HSC,CSE, Anyone](https://www.youtube.com/watch?v=GYHu3nstDkQ&list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99&index=1&ab_channel=LearnHunter) *by Learn Hunter*
+- 
