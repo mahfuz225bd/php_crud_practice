@@ -24,7 +24,7 @@
 			<label for="amount">Amount</label>
 			<input type="text" id="amount" name="amount" required value="700" />
 
-			<button class="btn" type="submit">Add</button>
+			<button class="btn btn-blue" type="submit">Add</button>
 		</form>
 		<!-- HTML Form: https://www.w3schools.com/tags/tag_form.asp -->
 
