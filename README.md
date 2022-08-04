@@ -4,7 +4,7 @@ This repo can be helpful for practicing PHP MySQL CRUD for beginners. I made thi
 
 # Some Concepts Needs to Know for Making CRUD PHP
 
-There are some topics provided bellow (in Bengali), beginners must have to know before making a CRUD project \w PHP MySQL.
+নিচে কিছু বিষয়বস্তু দেওয়া আছে, নতুনদের অবশ্যই PHP MySQL এর সাহায্যে একটি CRUD প্রজেক্ট তৈরি করার আগে বিষয়গুলো আগে জানতে হবে।
 
 ### name vs id vs class
 
