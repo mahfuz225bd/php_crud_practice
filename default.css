@@ -39,7 +39,7 @@ form input {
 }
 
 .btn {
-	background-color: dodgerblue;
+
 	padding: 5px;
 	cursor: pointer;
 	text-align: center;
@@ -52,6 +52,10 @@ form input {
 a.btn {
 	display: inline-block;
 	text-decoration: none;
+}
+
+.btn-blue {
+	background-color: dodgerblue;
 }
 
 .btn-red {
