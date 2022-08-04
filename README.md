@@ -36,7 +36,7 @@ There are some topics provided bellow (in Bengali), beginners must have to know 
 
 ### PHP: $\_POST ও $\_GET কি?
 
-- $\_POST: Bookmark-able URL তৈরি করে না।
+- $\_POST: Bookmark-able URL তৈরি করে না। (hi)
 - $\_POST এর প্রয়োগ: সাধারনত login system তৈরিতে কিংবা ডাটা insertion এর ক্ষেত্রে ব্যবহার করা হয়।
 - $\_GET: Bookmark-able URL তৈরি করে।
 - $\_GET এর প্রয়োগ: View Details, Edit কিংবা Delete করার ক্ষেত্রে ক্ষেত্রে ব্যবহার করা হয়।
