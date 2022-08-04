@@ -25,7 +25,7 @@ There are some topics provided bellow (in Bengali), beginners must have to know 
 
 - HTML Table কি? কেন ব্যবহার করা হয়?
 - <tr> ও <td> কি? কেন ব্যবহার করা হয়?
-- কেন <table> element এর মধ্যে <tr> এবং <tr> element এর মধ্যে <td> ব্যবহার হয়?
+- কেন <table> element এর মধ্যে <tr>
 - কেন ও কখন <td> এর পরিবর্তে <th> ব্যবহার করা হয়?
   
 ### PHP Basic
