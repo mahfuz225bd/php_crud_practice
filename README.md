@@ -227,8 +227,8 @@ $conn->close(); // For closing the database connection
 
 # Learning Resources in Bengali
 
-- [HTML5 Essential Training by Procoder](https://www.youtube.com/watch?v=_bjfDQWG65c&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&ab_channel=ProcoderBD)
-- [HTML5 | HTML Tutorial For Beginners by Hablu Programmer](https://www.youtube.com/watch?v=ELphoMApj-8&list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp&ab_channel=HabluProgrammer)
+- [HTML5 Essential Training](https://www.youtube.com/watch?v=_bjfDQWG65c&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&ab_channel=ProcoderBD) by Procoder
+- [HTML5 | HTML Tutorial For Beginners](https://www.youtube.com/watch?v=ELphoMApj-8&list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp&ab_channel=HabluProgrammer) by Hablu Programmer
 - [CSS3 Essential Training by Procoder](https://www.youtube.com/watch?v=Z1Lgl5lmHFY&list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV&ab_channel=ProcoderBD)
 - [CSS Bangla Tutorial / CSS3 Bangla Tutorial by Hablu Programmer](https://www.youtube.com/watch?v=jrI6jYYVI78&list=PLNMnAEqLBwmq4cvfIMWE9ZiAmndL5VOIM&ab_channel=HabluProgrammer)
 - [CSS3 and CSS4 Weird Parts Bangla Tutorial by Stack Learner](https://www.youtube.com/watch?v=MH2sJThTgEE&list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2&ab_channel=StackLearner)
