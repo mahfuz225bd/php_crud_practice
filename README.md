@@ -15,11 +15,18 @@ There are some topics provided bellow (in Bengali), beginners must have to know 
 
 ### HTML Form
 
-- HTML Form কি?
+- HTML Form কি? কেন ব্যবহার করা হয়?
 - HTML Input কি?
 - কেন Form element এর মধ্যে HTML Input ব্যবহার হয়?
 - HTML Form action ও method কি?
 - HTML submit এবং reset এর ব্যবহার
+
+### HTML Table
+
+- HTML Table কি? কেন ব্যবহার করা হয়?
+- <tr> ও <td> কি? কেন ব্যবহার করা হয়?
+- কেন <table> element এর মধ্যে <tr> এবং <tr> element এর মধ্যে <td> ব্যবহার হয়?
+- কেন ও কখন <td> এর পরিবর্তে <th> ব্যবহার করা হয়?
 
 ### PHP Basic
 
