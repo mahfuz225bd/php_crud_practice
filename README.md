@@ -167,7 +167,7 @@
      */
      ```
 
-### Procedure to Execute an SQL Query though PHP
+### PHP তে SQL Query Execute করার Procedure
 
 1. GET as variable
    - hostname
