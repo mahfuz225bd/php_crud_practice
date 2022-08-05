@@ -1,8 +1,8 @@
 # PHP MySQL CRUD Tutorial
 
-This repo can be helpful for practicing PHP MySQL CRUD for beginners. I made this repo for beginners who is learnt basic PHP and now want to practice CRUD.
+এই repo টি বিগিনারদের জন্য PHP MySQL CRUD অনুশীলনের সহায়ক হতে পারে। আমি এই repo টি তৈরি করেছি বিগিনারদের জন্য যারা প্রাথমিক PHP শিখেছেন এবং এখন CRUD অনুশীলন করতে চান।
 
-# Some Concepts Needs to Know for Making CRUD PHP
+# CRUD PHP তৈরির জন্য যে সকল বিষয় সম্পর্কে ধারণা হবে
 
 নিচে কিছু বিষয়বস্তু দেওয়া আছে, নতুনদের অবশ্যই PHP MySQL এর সাহায্যে একটি CRUD প্রজেক্ট তৈরি করার আগে বিষয়গুলো আগে জানতে হবে।
 
