@@ -13,6 +13,13 @@
 - id ও class এর ব্যবহার
 - name কেন ব্যবহার হয়?
 
+### HTML Table
+
+- HTML Table কি? কেন ব্যবহার করা হয়?
+- &lt;tr> ও &lt;td> কি? কেন ব্যবহার করা হয়?
+- কেন &lt;table&gt; element এর মধ্যে &lt;tr&gt; এবং &lt;tr&gt; element এর মধ্যে &lt;td&gt; ব্যবহার হয়?
+- কেন ও কখন &lt;td&gt; এর পরিবর্তে &lt;th&gt; ব্যবহার করা হয়?
+
 ### HTML Form
 
 - HTML Form কি? কেন ব্যবহার করা হয়?
@@ -20,13 +27,6 @@
 - কেন Form element এর মধ্যে HTML Input ব্যবহার হয়?
 - HTML Form action ও method কি?
 - HTML submit এবং reset এর ব্যবহার
-
-### HTML Table
-
-- HTML Table কি? কেন ব্যবহার করা হয়?
-- &lt;tr> ও &lt;td> কি? কেন ব্যবহার করা হয়?
-- কেন &lt;table&gt; element এর মধ্যে &lt;tr&gt; এবং &lt;tr&gt; element এর মধ্যে &lt;td&gt; ব্যবহার হয়?
-- কেন ও কখন &lt;td&gt; এর পরিবর্তে &lt;th&gt; ব্যবহার করা হয়?
   
 ### PHP Basic
 
